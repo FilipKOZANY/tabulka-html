@@ -39,3 +39,12 @@ td, th{
 .gray{
     background-color: gray;
 }
+main{
+    width:  1500px;
+    margin: 20px auto;
+    border-radius: 25px;
+    border: 1px rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    height: 850px;
+}
